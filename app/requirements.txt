@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+seaborn
+sqlalchemy
+pymysql
+python-dotenv
+mysql-connector-python
+python-multipart
